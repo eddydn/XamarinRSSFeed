@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sdk>
+  <AndroidApiLevel>25</AndroidApiLevel>
+  <AndroidApiLevelName>25</AndroidApiLevelName>
+  <AndroidNdkPath />
+  <AndroidSdkBuildToolsPath>D:\AndroidSDK\build-tools\25.0.2</AndroidSdkBuildToolsPath>
+  <AndroidSdkBuildToolsBinPath>D:\AndroidSDK\build-tools\25.0.2</AndroidSdkBuildToolsBinPath>
+  <AndroidSdkPath>D:\AndroidSDK</AndroidSdkPath>
+  <JavaSdkPath>C:\Program Files\Java\jdk1.8.0_121</JavaSdkPath>
+  <MonoAndroidBinPath>D:\VS 2017 INSTALL\MSBuild\Xamarin\Android</MonoAndroidBinPath>
+  <MonoAndroidToolsPath>D:\VS 2017 INSTALL\MSBuild\Xamarin\Android</MonoAndroidToolsPath>
+  <ReferenceAssemblyPaths>
+    <ReferenceAssemblyPath>D:\VS 2017 INSTALL\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v1.0\</ReferenceAssemblyPath>
+  </ReferenceAssemblyPaths>
+  <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
+  <ZipAlignPath>D:\AndroidSDK\build-tools\25.0.2</ZipAlignPath>
+  <MonoAndroidIncludePath />
+  <SupportedApiLevel>25</SupportedApiLevel>
+  <AndroidSequencePointsMode>None</AndroidSequencePointsMode>
+</Sdk>

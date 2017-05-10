@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\reale\documents\visual studio 2017\Projects\XamarinRSSFeed\XamarinRSSFeed\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\reale\documents\visual studio 2017\Projects\XamarinRSSFeed\XamarinRSSFeed\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\reale\documents\visual studio 2017\Projects\XamarinRSSFeed\XamarinRSSFeed\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories />
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\reale\documents\visual studio 2017\Projects\XamarinRSSFeed\XamarinRSSFeed\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\reale\documents\visual studio 2017\Projects\XamarinRSSFeed\XamarinRSSFeed\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\reale\documents\visual studio 2017\Projects\XamarinRSSFeed\XamarinRSSFeed\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
